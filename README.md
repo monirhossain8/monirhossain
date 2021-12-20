@@ -1,1 +1,1 @@
-<img src="tra.gif" width="450px" height="250px"/>
+<img src="tra.gif" width="400px" height="200px"/>
